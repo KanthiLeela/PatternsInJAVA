@@ -1,0 +1,17 @@
+Patterns:
+ Patterns in Java are a common programming exercise involving the creation of specific shapes or
+ sequences of characters using loops.
+  They serve as a valuable practice for understanding control
+ structures and enhancing problem-solving skills.
+
+ In this repository we will learn:
+ --> square patterns
+ --> triangle patterns 
+ --> pyramid patterns
+
+Before printing any pattern, you must consider the following three things:
+ ● The first step in printing any pattern is to figure out the number of rows that the pattern
+ requires.
+ ● Next, you should know how many columns are there in the i’th row.
+ ● Once you have figured out the number of rows and columns, then focus on the pattern to
+ print.
